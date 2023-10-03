@@ -1,0 +1,120 @@
+[
+    {
+        "id": "_meta",
+        "name": "染瘾犯了 v1.1",
+        "author": "Cyan Feather"
+    },
+    {
+        "id": "chef"
+    },
+    {
+        "id": "investigator"
+    },
+    {
+        "id": "noble"
+    },
+    {
+        "id": "fortune_teller"
+    },
+    {
+        "id": "snake_charmer"
+    },
+    {
+        "id": "flowergirl"
+    },
+    {
+        "id": "juggler"
+    },
+    {
+        "id": "savant"
+    },
+    {
+        "id": "fisherman"
+    },
+    {
+        "id": "artist"
+    },
+    {
+        "id": "lily",
+        "name": "Lily",
+        "team": "townsfolk",
+        "firstNight": 400,
+        "otherNight": 37, 
+        "reminders": ["死亡"],
+        "setup": false,
+        "ability": "每局游戏限一次，如果你进食了一颗零食，当晚你要选择一名玩家：如果他是善良的，他死亡，且你会获得他的技能。",
+        "image": "https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/lycanthrope.png"
+    },
+    {
+        "id": "philosopher"
+    },
+    {
+        "id": "poppy_grower"
+    },
+    {
+        "id": "drunk"
+    },
+    {
+        "id": "lunatic"
+    },
+    {
+        "id": "politician"
+    },
+    {
+        "id": "l-st",
+        "name": "左派说书人",
+        "team": "outsider",
+        "firstNight": 401,
+        "otherNight": 401,
+        "reminders": ["失去能力"],
+        "setup": false,
+        "ability": "每局游戏限一次，说书人可能会犯一个错误，并在当晚告知你他曾经犯错，即使你已死亡。",
+        "image": "https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/puzzlemaster.png"
+    },
+    {
+        "id": "pit-hag"
+    },
+    {
+        "id": "cerenovus"
+    },
+    {
+        "id": "psychopath"
+    },
+    {
+        "id": "yuanshen",
+        "name": "源神",
+        "team": "minion",
+        "firstNight": 0,
+        "otherNight": 0,
+        "reminders": ["失去能力"],
+        "setup": false,
+        "ability": "每局游戏限一次，你可以公开声称“我是玩源神玩的”并大喊“源神，起冻！”。当天白天，没有人会被处决。",
+        "image": "https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/goblin.png"
+    },
+    {
+        "id": "lil_monsta"
+    },
+    {
+        "id": "vortox"
+    },
+    {
+        "id": "al-hadikhia"
+    },
+    {
+        "id": "white-cat",
+        "name": "白色猫猫头",
+        "team": "demon",
+        "firstNight": 0,
+        "otherNight": 36,
+        "reminders": ["死亡"],
+        "setup": true,
+        "ability": "每个夜晚*，你要选择一名玩家：如果他不是爪牙，他死亡；如果他是爪牙，你和他交换角色。因你的能力交换角色的玩家不视为获得新角色。[+罂粟种植者]",
+        "image": "https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/fanggu.png"
+    },
+    {
+        "id": "bootlegger"
+    },
+    {
+        "id": "djinn"
+    }
+]

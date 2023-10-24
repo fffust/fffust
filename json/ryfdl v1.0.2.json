@@ -1,0 +1,162 @@
+[
+    {
+        "id": "_meta",
+        "name": "染瘾犯大了 v1.0.2",
+        "author": "Cyan Feather"
+    },
+    {
+        "id": "qintianjian"
+    },
+    {
+        "id": "yinyangshi"
+    },
+    {
+        "id": "wudaozhe"
+    },
+    {
+        "id": "fortune_teller"
+    },
+    {
+        "id": "snake_charmer"
+    },
+    {
+        "id": "flowergirl"
+    },
+    {
+        "id": "juggler"
+    },
+    {
+        "id": "savant"
+    },
+    {
+        "id": "artist"
+    },
+    {
+        "id": "philosopher"
+    },
+    {
+        "id": "poppy_grower"
+    },
+    {
+        "id": "oracle"
+    },
+    {
+        "id": "langzhong"
+    },
+    {
+        "id": "bianlianshi"
+    },
+    {
+        "id": "gossip"
+    },
+    {
+        "id": "lily",
+        "name": "Lily",
+        "team": "townsfolk",
+        "firstNight": 32,
+        "otherNight": 46,
+        "reminders": [
+            "死亡","失去能力"
+        ],
+        "remindersGlobal": [
+            "是lily"
+        ],
+        "setup": false,
+        "ability": "每局游戏限一次，如果你进食了一颗零食，当晚你要选择一名玩家：如果他是善良的，他死亡，且你会获得他的技能。",
+        "image": "https://pic.imgdb.cn/item/65324040c458853aef7f3491.png"
+    },
+    {
+        "id": "whynot",
+        "name": "Why not?",
+        "team": "townsfolk",
+        "firstNight": 0,
+        "otherNight": 0,
+        "reminders": [
+            "失去能力"
+        ],
+        "setup": false,
+        "ability": "每局游戏限一次，在白天时，你可以发起一项动议：如果你获得 2/3 或以上存活玩家的支持，当天会额外进行一轮提名处决，但你可能会在下个夜晚死亡。",
+        "image": "https://pic.imgdb.cn/item/6532405cc458853aef7f805e.png"
+    },
+    {
+        "id": "drunk"
+    },
+    {
+        "id": "lunatic"
+    },
+    {
+        "id": "politician"
+    },
+    {
+        "id": "puzzlemaster"
+    },
+    {
+        "id": "l-st",
+        "name": "左派说书人",
+        "team": "outsider",
+        "firstNight": 66,
+        "otherNight": 87,
+        "reminders": ["失去能力"],
+        "setup": false,
+        "ability": "每局游戏限一次，说书人可能会犯一个错误，如果在此之前你没有“疯狂”地证明自己是外来者，说书人会在当晚告知你他曾经犯错，即使你已死亡。",
+        "image": "https://pic.imgdb.cn/item/65324074c458853aef7fbfdb.png"
+    },
+    {
+        "id": "pit-hag"
+    },
+    {
+        "id": "psychopath"
+    },
+    {
+        "id": "gudiao"
+    },
+    {
+        "id": "ganshiren"
+    },
+    {
+        "id": "scarlet_woman"
+    },
+    {
+        "id": "mezepheles"
+    },
+    {
+        "id": "yuanshen",
+        "name": "源神",
+        "team": "minion",
+        "firstNight": 0,
+        "otherNight": 0,
+        "reminders": ["失去能力"],
+        "setup": false,
+        "ability": "每局游戏限一次，你可以公开声称“我是玩源神玩的”并大喊“源神，起冻！”。当天白天，没有人会被处决。你的能力每局游戏只能生效一次。",
+        "image": "https://pic.imgdb.cn/item/6532408bc458853aef7ff7a9.png"
+    },
+    {
+        "id": "fang_gu"
+    },
+    {
+        "id": "vortox"
+    },
+    {
+        "id": "taotie"
+    },
+    {
+        "id": "dianyuzhang"
+    },
+    {
+        "id": "white-cat",
+        "name": "白色猫猫头",
+        "team": "demon",
+        "firstNight": 0,
+        "otherNight": 45,
+        "reminders": ["死亡"],
+        "setup": true,
+        "ability": "每个夜晚*，你要选择一名玩家：如果他不是爪牙，他死亡；如果他是爪牙，你和他交换角色。因你的能力交换角色的玩家不视为获得新角色。[+罂粟种植者]",
+        "image": "https://pic.imgdb.cn/item/65323a1cc458853aef6eaf7b.png"
+    },
+    {
+        "id": "djinn"
+    },
+    {
+        "id": "bootlegger"
+    }
+]
